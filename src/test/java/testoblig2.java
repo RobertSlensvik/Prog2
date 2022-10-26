@@ -2,9 +2,8 @@ import org.example.oBlig2;
 import org.junit.Test;
 import static org.junit.Assert.assertTrue;
 import static org.junit.Assert.assertFalse;
-import static org.junit.Assert.*;
 
-public class Test_oblig2 {
+public class testoblig2 {
 
         @Test
         public void testLeapYearDevidedBy4AndNot100() {assertTrue(oBlig2.isLeapYear(4));}

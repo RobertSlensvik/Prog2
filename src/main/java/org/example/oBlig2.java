@@ -3,6 +3,7 @@ package org.example;
 public class oBlig2 {
 
     public static void main(String[] args) {
+        System.out.println("hei");
     }
 
     public static boolean isLeapYear(int year){
@@ -29,5 +30,8 @@ public class oBlig2 {
         }
         else
             return false;
+
     }
+
+
 }
